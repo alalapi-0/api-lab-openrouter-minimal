@@ -2,6 +2,9 @@
 
 > 最小化体验：用 OpenRouter 调用一次聊天模型。
 
+> 想"通过实操验证理解"而不是"只把代码跑通"？请先翻 [`LEARNING.md`](./LEARNING.md)：
+> 里面有 **学习目标 / 实操验证清单 / 自检题 / 跟其它仓库的连接**。本 README 主要负责"具体怎么跑"。
+
 ## 它在做什么
 
 OpenRouter 是一个聚合多家 LLM 服务商的网关，提供 **OpenAI-compatible** 的 `/chat/completions` 接口。
